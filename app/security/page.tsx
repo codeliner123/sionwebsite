@@ -39,7 +39,7 @@ export default function Security() {
             <div>
               <h2 className="text-2xl font-bold text-slate-50 mb-6">Regional Hosting</h2>
               <p className="text-slate-400 leading-relaxed mb-4">
-                Your data stays in your region. We offer hosting options in the US, EU, and other regions 
+                Your data stays in your region. We offer hosting options in India and other regions 
                 to ensure compliance with local data protection regulations.
               </p>
               <p className="text-slate-400 leading-relaxed">
