@@ -5,7 +5,7 @@ const LogoPlaceholder = ({ name }: { name: string }) => (
 );
 
 export default function LogoStrip() {
-  const partners = ['BRAC'];
+  const partners = ['      ','      ','      ','BRAC','      ','      ','      '];
 
   return (
     <section className="py-16 border-y border-white/10">
