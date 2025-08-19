@@ -4,7 +4,7 @@ import { securityDetails } from '@/constants/site';
 
 export const metadata = {
   title: 'Security',
-  description: 'Learn about Sion Technology\'s enterprise-grade security measures and compliance standards.',
+  description: 'Learn about Sion Technology\'s enterprise-grade security measures and compliance standards. ',
 };
 
 export default function Security() {
