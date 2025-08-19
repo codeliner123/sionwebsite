@@ -64,19 +64,19 @@ export const howItWorksSteps = [
 
 export const testimonials = [
   {
-    quote: "Sion has given me back 2 hours every day. I can finally focus on my patients instead of paperwork.",
-    author: "Dr. Sarah Chen",
-    role: "Emergency Medicine",
+    quote: "Sion can give me back 2 hours every day. I can finally focus more on my patients instead of paperwork.",
+    author: "Dr. Praveena",
+    role: "Oral Cancer Specialist",
   },
   {
-    quote: "The accuracy is incredible. It understands medical terminology better than any system I've used.",
-    author: "Dr. Michael Rodriguez",
-    role: "Internal Medicine",
+    quote: "The initial accuracy is incredible. It understands medical terminology better than any system I've tested.",
+    author: "Dr. Jagdish",
+    role: "Ortho-Surgeon",
   },
   {
-    quote: "Setup was instant, and it integrates perfectly with our existing workflow. Game changer.",
-    author: "Dr. Jennifer Kim",
-    role: "Family Practice",
+    quote: "Setup seems instant, and it integrates perfectly with our existing workflow. Game changer.",
+    author: "Dr. Arumugam",
+    role: "Cardiologist",
   },
 ]
 
@@ -97,8 +97,8 @@ export const pricingPlans = [
     popular: false,
   },
   {
-    name: "Pro",
-    price: "$49",
+    name: "Free",
+    price: "$0",
     period: "per month",
     description: "For individual practitioners",
     features: [
