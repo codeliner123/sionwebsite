@@ -60,7 +60,7 @@ export const howItWorksSteps = [
     title: "Review & export",
     description: "Review, edit if needed, and export directly to your EHR system or preferred format.",
   },
-]
+]  
 
 export const testimonials = [
   {
