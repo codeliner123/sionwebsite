@@ -97,8 +97,8 @@ export const pricingPlans = [
     popular: false,
   },
   {
-    name: "Free",
-    price: "$0",
+    name: "Pro",
+    price: "$1",
     period: "per month",
     description: "For individual practitioners",
     features: [
